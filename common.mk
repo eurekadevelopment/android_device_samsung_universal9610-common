@@ -22,7 +22,7 @@ $(call inherit-product, vendor/samsung/a50-common/a50-common-vendor.mk)
 # Audio
 PRODUCT_PACKAGES += \
     android.hardware.audio.effect@7.0-impl:32 \
-    android.hardware.audio@7.0-impl:32 \
+    android.hardware.audio@7.1-impl:32 \
     android.hardware.audio.service \
     android.hardware.soundtrigger@2.0-impl:32 \
     android.hardware.bluetooth.audio-impl \
